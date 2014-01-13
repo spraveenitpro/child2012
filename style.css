@@ -1,0 +1,19 @@
+/*
+Theme Name:Twenty twelve Child
+Template: twentytwelve
+*/
+@import url("../twentytwelve/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+
+
+.entry-header .entry-title a {
+	font-family: Helvetica, serif, Arial;
+	color: black;
+	font-size: 1.5em;
+}
+
+
+
